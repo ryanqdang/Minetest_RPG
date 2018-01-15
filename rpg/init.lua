@@ -166,6 +166,8 @@ minetest.register_on_joinplayer(function(player)
 	local levels  = {}
 	local exps = {}
 	
+	-- if player is new, then he is assigned new values for levels and xp
+	-- then the hud is initialized
 	for i=1,rpg.skillCount do
 		levels[i] = player:get_attribute(rpg.skills[i] .. "Lvl")
 		exps[i] = 	player:get_attribute(rpg.skills[i] .. "Exp")

@@ -10,6 +10,9 @@ Pickaxes: Miner's Luck
 Right-click stone to turn it into a random ore.
 Higher skill level grants better ores and faster cooldowns.
 
+Shovels: Bulldozer
+Right-click dirt to dig a 3x3x3 area.
+
 by Ryan Dang
 
 ]]--
