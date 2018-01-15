@@ -1,0 +1,72 @@
+extended_attributes = """
+{"axeExp":"0","axeLvl":"0","diggingExp":"0","diggingLvl":"0","miningExp":"0","miningLvl":"0"}
+
+"""
+breath = 11
+name = singleplayer
+position = (-5.78,135,-1218.43)
+version = 1
+hp = 20
+pitch = 8.41
+yaw = 90.18
+PlayerArgsEnd
+List main 32
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List hand 1
+Width 0
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory
