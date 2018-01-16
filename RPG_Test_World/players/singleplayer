@@ -4,7 +4,7 @@ extended_attributes = """
 """
 breath = 11
 name = singleplayer
-position = (7.24,135,-1216.27)
+position = (-5.46,135,-1216.61)
 version = 1
 hp = 20
 pitch = 8.41
