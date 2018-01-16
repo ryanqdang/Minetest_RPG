@@ -18,3 +18,8 @@ Axe levels decrease the cooldown.
 There is a HUD that shows all the stats and exp. 
 
 There is also a test map included to show off features of the mod.
+
+Links to projects used:
+
+ChatCmdBuilder
+https://forum.minetest.net/viewtopic.php?t=14899
