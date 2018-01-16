@@ -4,11 +4,11 @@ extended_attributes = """
 """
 breath = 11
 name = singleplayer
-position = (-5.78,135,-1218.43)
+position = (7.24,135,-1216.27)
 version = 1
 hp = 20
 pitch = 8.41
-yaw = 90.18
+yaw = 91.56
 PlayerArgsEnd
 List main 32
 Width 0
