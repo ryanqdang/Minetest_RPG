@@ -7,7 +7,7 @@ by Ryan Dang
 ]]--
 
 -- dofiles
-dofile(minetest.get_modpath("rpg").."/ChatCmdBuilder.lua")
+dofile(minetest.get_modpath("rpg").."/ChatCmdBuilder/init.lua")
 dofile(minetest.get_modpath("rpg").."/tool.lua")
 dofile(minetest.get_modpath("rpg").."/digging.lua")
 
